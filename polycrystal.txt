@@ -1,0 +1,17 @@
+box 200 200 200
+node 0.125*box 0.125*box 0.125*box random
+node 0.375*box 0.375*box 0.375*box random
+node 0.125*box 0.125*box 0.625*box random
+node 0.375*box 0.375*box 0.875*box random
+node 0.125*box 0.625*box 0.125*box random
+node 0.375*box 0.875*box 0.375*box random
+node 0.125*box 0.625*box 0.625*box random
+node 0.375*box 0.875*box 0.875*box random
+node 0.625*box 0.125*box 0.125*box random
+node 0.875*box 0.375*box 0.375*box random
+node 0.625*box 0.125*box 0.625*box random
+node 0.875*box 0.375*box 0.875*box random
+node 0.625*box 0.625*box 0.125*box random
+node 0.875*box 0.875*box 0.375*box random
+node 0.625*box 0.625*box 0.625*box random
+node 0.875*box 0.875*box 0.875*box random
